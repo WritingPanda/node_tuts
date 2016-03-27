@@ -1,0 +1,23 @@
+{
+  "name": "node_tuts",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WritingPanda/node_tuts.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial"
+  ],
+  "author": "Omar Quimbaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WritingPanda/node_tuts/issues"
+  },
+  "homepage": "https://github.com/WritingPanda/node_tuts#readme"
+}
